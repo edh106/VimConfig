@@ -16,3 +16,6 @@ Grab config
 Run Vim to install plugins
 
 :PluginInstall
+
+[YouCompleteMe additional install](https://github.com/Valloric/YouCompleteMe#mac-os-x-super-quick-installation)
+
